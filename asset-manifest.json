@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blank_repo_interview/static/css/main.7acaea2f.css",
+    "main.js": "/blank_repo_interview/static/js/main.07d3183d.js",
+    "index.html": "/blank_repo_interview/index.html",
+    "main.7acaea2f.css.map": "/blank_repo_interview/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/blank_repo_interview/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
